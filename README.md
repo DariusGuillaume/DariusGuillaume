@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darius Guillaume</h1>
-<h3 align="center">A Developer from NYC</h3>
+<h3 align="center">A Software Developer from NYC</h3>
 
 - 🔭 I’m currently working on **something cool**
 
